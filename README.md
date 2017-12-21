@@ -7,10 +7,13 @@ Created a program to take an input of DNA strings consisting of C's, G's A's, an
 Files
 https://www.youtube.com/watch?v=HcONWqVyvlg
 https://www.youtube.com/watch?v=qdkabVYgV24
+
 Lower and upper case
 https://www.youtube.com/watch?v=XUmZcK44lsc
+
 Writing onto a file without re-writing over all of it
 http://mathbits.com/MathBits/CompSci/Files/Append.htm
+
 Using rand()
 https://www.youtube.com/watch?v=naXUIEAIt4U
 
